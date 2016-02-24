@@ -1,2 +1,2 @@
 # training
-Micro services self teaching
+Micro services self teaching.
